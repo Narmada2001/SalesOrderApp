@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\narma\\SalesOrderApp\\backend\\SalesOrderApi\\SalesOrderApi.csproj": {}
+    "C:\\Users\\narma\\SalesOrderApp\\SalesOrderApp\\backend\\SalesOrderApi\\SalesOrderApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\narma\\SalesOrderApp\\backend\\SalesOrderApi\\SalesOrderApi.csproj": {
+    "C:\\Users\\narma\\SalesOrderApp\\SalesOrderApp\\backend\\SalesOrderApi\\SalesOrderApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\narma\\SalesOrderApp\\backend\\SalesOrderApi\\SalesOrderApi.csproj",
+        "projectUniqueName": "C:\\Users\\narma\\SalesOrderApp\\SalesOrderApp\\backend\\SalesOrderApi\\SalesOrderApi.csproj",
         "projectName": "SalesOrderApi",
-        "projectPath": "C:\\Users\\narma\\SalesOrderApp\\backend\\SalesOrderApi\\SalesOrderApi.csproj",
+        "projectPath": "C:\\Users\\narma\\SalesOrderApp\\SalesOrderApp\\backend\\SalesOrderApi\\SalesOrderApi.csproj",
         "packagesPath": "C:\\Users\\narma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\narma\\SalesOrderApp\\backend\\SalesOrderApi\\obj\\",
+        "outputPath": "C:\\Users\\narma\\SalesOrderApp\\SalesOrderApp\\backend\\SalesOrderApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\narma\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -47,9 +47,15 @@
               "target": "Package",
               "version": "[8.0.22, )"
             },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.6.2, )"
+              "version": "[10.0.1, )"
             }
           },
           "imports": [
