@@ -1,0 +1,12 @@
+c:\Users\narma\SalesOrderApp\SalesOrderApp\backend\SalesOrderApi.Domain\bin\Debug\net8.0\SalesOrderApi.Domain.deps.json
+c:\Users\narma\SalesOrderApp\SalesOrderApp\backend\SalesOrderApi.Domain\bin\Debug\net8.0\SalesOrderApi.Domain.dll
+c:\Users\narma\SalesOrderApp\SalesOrderApp\backend\SalesOrderApi.Domain\bin\Debug\net8.0\SalesOrderApi.Domain.pdb
+c:\Users\narma\SalesOrderApp\SalesOrderApp\backend\SalesOrderApi.Domain\obj\Debug\net8.0\SalesOrderApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\narma\SalesOrderApp\SalesOrderApp\backend\SalesOrderApi.Domain\obj\Debug\net8.0\SalesOrderApi.Domain.AssemblyInfoInputs.cache
+c:\Users\narma\SalesOrderApp\SalesOrderApp\backend\SalesOrderApi.Domain\obj\Debug\net8.0\SalesOrderApi.Domain.AssemblyInfo.cs
+c:\Users\narma\SalesOrderApp\SalesOrderApp\backend\SalesOrderApi.Domain\obj\Debug\net8.0\SalesOrderApi.Domain.csproj.CoreCompileInputs.cache
+c:\Users\narma\SalesOrderApp\SalesOrderApp\backend\SalesOrderApi.Domain\obj\Debug\net8.0\SalesOrderApi.Domain.sourcelink.json
+c:\Users\narma\SalesOrderApp\SalesOrderApp\backend\SalesOrderApi.Domain\obj\Debug\net8.0\SalesOrderApi.Domain.dll
+c:\Users\narma\SalesOrderApp\SalesOrderApp\backend\SalesOrderApi.Domain\obj\Debug\net8.0\refint\SalesOrderApi.Domain.dll
+c:\Users\narma\SalesOrderApp\SalesOrderApp\backend\SalesOrderApi.Domain\obj\Debug\net8.0\SalesOrderApi.Domain.pdb
+c:\Users\narma\SalesOrderApp\SalesOrderApp\backend\SalesOrderApi.Domain\obj\Debug\net8.0\ref\SalesOrderApi.Domain.dll

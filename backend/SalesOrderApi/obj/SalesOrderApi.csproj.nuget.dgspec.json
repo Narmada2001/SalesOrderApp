@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< Updated upstream
     "C:\\Users\\narma\\SalesOrderApp\\backend\\SalesOrderApi\\SalesOrderApi.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\narma\\SalesOrderApp\\backend\\SalesOrderApi\\SalesOrderApi.csproj",
         "packagesPath": "C:\\Users\\narma\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\narma\\SalesOrderApp\\backend\\SalesOrderApi\\obj\\",
+=======
+    "c:\\Users\\narma\\SalesOrderApp\\SalesOrderApp\\backend\\SalesOrderApi\\SalesOrderApi.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\narma\\SalesOrderApp\\SalesOrderApp\\backend\\SalesOrderApi.Domain\\SalesOrderApi.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\narma\\SalesOrderApp\\SalesOrderApp\\backend\\SalesOrderApi.Domain\\SalesOrderApi.Domain.csproj",
+        "projectName": "SalesOrderApi.Domain",
+        "projectPath": "c:\\Users\\narma\\SalesOrderApp\\SalesOrderApp\\backend\\SalesOrderApi.Domain\\SalesOrderApi.Domain.csproj",
+        "packagesPath": "C:\\Users\\narma\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\narma\\SalesOrderApp\\SalesOrderApp\\backend\\SalesOrderApi.Domain\\obj\\",
+>>>>>>> Stashed changes
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\narma\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -42,11 +56,162 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.412/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\narma\\SalesOrderApp\\SalesOrderApp\\backend\\SalesOrderApi.Infrastructure\\SalesOrderApi.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\narma\\SalesOrderApp\\SalesOrderApp\\backend\\SalesOrderApi.Infrastructure\\SalesOrderApi.Infrastructure.csproj",
+        "projectName": "SalesOrderApi.Infrastructure",
+        "projectPath": "c:\\Users\\narma\\SalesOrderApp\\SalesOrderApp\\backend\\SalesOrderApi.Infrastructure\\SalesOrderApi.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\narma\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\narma\\SalesOrderApp\\SalesOrderApp\\backend\\SalesOrderApi.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\narma\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "c:\\Users\\narma\\SalesOrderApp\\SalesOrderApp\\backend\\SalesOrderApi.Domain\\SalesOrderApi.Domain.csproj": {
+                "projectPath": "c:\\Users\\narma\\SalesOrderApp\\SalesOrderApp\\backend\\SalesOrderApi.Domain\\SalesOrderApi.Domain.csproj"
+              },
+              "c:\\Users\\narma\\SalesOrderApp\\SalesOrderApp\\backend\\SalesOrderApp.Application\\SalesOrderApi.Application.csproj": {
+                "projectPath": "c:\\Users\\narma\\SalesOrderApp\\SalesOrderApp\\backend\\SalesOrderApp.Application\\SalesOrderApi.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.412/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\narma\\SalesOrderApp\\SalesOrderApp\\backend\\SalesOrderApi\\SalesOrderApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\narma\\SalesOrderApp\\SalesOrderApp\\backend\\SalesOrderApi\\SalesOrderApi.csproj",
+        "projectName": "SalesOrderApi",
+        "projectPath": "c:\\Users\\narma\\SalesOrderApp\\SalesOrderApp\\backend\\SalesOrderApi\\SalesOrderApi.csproj",
+        "packagesPath": "C:\\Users\\narma\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\narma\\SalesOrderApp\\SalesOrderApp\\backend\\SalesOrderApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\narma\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "c:\\Users\\narma\\SalesOrderApp\\SalesOrderApp\\backend\\SalesOrderApi.Infrastructure\\SalesOrderApi.Infrastructure.csproj": {
+                "projectPath": "c:\\Users\\narma\\SalesOrderApp\\SalesOrderApp\\backend\\SalesOrderApi.Infrastructure\\SalesOrderApi.Infrastructure.csproj"
+              },
+              "c:\\Users\\narma\\SalesOrderApp\\SalesOrderApp\\backend\\SalesOrderApp.Application\\SalesOrderApi.Application.csproj": {
+                "projectPath": "c:\\Users\\narma\\SalesOrderApp\\SalesOrderApp\\backend\\SalesOrderApp.Application\\SalesOrderApi.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[8.0.22, )"
             },
+<<<<<<< Updated upstream
+=======
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+>>>>>>> Stashed changes
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"
@@ -67,6 +232,74 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.412/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\narma\\SalesOrderApp\\SalesOrderApp\\backend\\SalesOrderApp.Application\\SalesOrderApi.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\narma\\SalesOrderApp\\SalesOrderApp\\backend\\SalesOrderApp.Application\\SalesOrderApi.Application.csproj",
+        "projectName": "SalesOrderApi.Application",
+        "projectPath": "c:\\Users\\narma\\SalesOrderApp\\SalesOrderApp\\backend\\SalesOrderApp.Application\\SalesOrderApi.Application.csproj",
+        "packagesPath": "C:\\Users\\narma\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\narma\\SalesOrderApp\\SalesOrderApp\\backend\\SalesOrderApp.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\narma\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "c:\\Users\\narma\\SalesOrderApp\\SalesOrderApp\\backend\\SalesOrderApi.Domain\\SalesOrderApi.Domain.csproj": {
+                "projectPath": "c:\\Users\\narma\\SalesOrderApp\\SalesOrderApp\\backend\\SalesOrderApi.Domain\\SalesOrderApi.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

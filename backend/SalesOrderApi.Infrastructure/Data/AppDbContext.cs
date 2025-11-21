@@ -17,8 +17,8 @@ namespace SalesOrderApi.Infrastructure.Data
             base.OnModelCreating(modelBuilder);
 
             modelBuilder.Entity<Client>().HasData(
-                new Client { Id = 1, Name = "ABC Traders", Address1 = "No 10", Suburb = "Colombo" },
-                new Client { Id = 2, Name = "Kandy Supplies", Address1 = "No 5", Suburb = "Kandy" }
+                new Client { Id = 1, CustomerName = "ABC Traders", Address1 = "No 10", Suburb = "Colombo" },
+                new Client { Id = 2, CustomerName = "Kandy Supplies", Address1 = "No 5", Suburb = "Kandy" }
             );
 
             modelBuilder.Entity<Item>().HasData(

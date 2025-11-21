@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nhKRwkbJLVg=",
+  "dgSpecHash": "cfMW2ymeTnE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\narma\\SalesOrderApp\\backend\\SalesOrderApp.Domain\\SalesOrderApp.Domain.csproj",
+  "projectFilePath": "c:\\Users\\narma\\SalesOrderApp\\SalesOrderApp\\backend\\SalesOrderApi.Domain\\SalesOrderApi.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

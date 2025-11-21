@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\narma\\SalesOrderApp\\backend\\SalesOrderApp.Domain\\SalesOrderApp.Domain.csproj",
-      "projectName": "SalesOrderApp.Domain",
-      "projectPath": "C:\\Users\\narma\\SalesOrderApp\\backend\\SalesOrderApp.Domain\\SalesOrderApp.Domain.csproj",
+      "projectUniqueName": "c:\\Users\\narma\\SalesOrderApp\\SalesOrderApp\\backend\\SalesOrderApi.Domain\\SalesOrderApi.Domain.csproj",
+      "projectName": "SalesOrderApi.Domain",
+      "projectPath": "c:\\Users\\narma\\SalesOrderApp\\SalesOrderApp\\backend\\SalesOrderApi.Domain\\SalesOrderApi.Domain.csproj",
       "packagesPath": "C:\\Users\\narma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\narma\\SalesOrderApp\\backend\\SalesOrderApp.Domain\\obj\\",
+      "outputPath": "c:\\Users\\narma\\SalesOrderApp\\SalesOrderApp\\backend\\SalesOrderApi.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\narma\\AppData\\Roaming\\NuGet\\NuGet.Config"

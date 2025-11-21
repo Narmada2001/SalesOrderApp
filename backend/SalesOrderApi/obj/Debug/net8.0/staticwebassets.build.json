@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7Q6IGQfCOy5U0SBXVwDZym9K2HbZ2Z83YR3c08SKOWs=",
+  "Source": "SalesOrderApi",
+  "BasePath": "_content/SalesOrderApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

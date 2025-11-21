@@ -1,0 +1,16 @@
+c:\Users\narma\SalesOrderApp\SalesOrderApp\backend\SalesOrderApp.Application\bin\Debug\net8.0\SalesOrderApi.Application.deps.json
+c:\Users\narma\SalesOrderApp\SalesOrderApp\backend\SalesOrderApp.Application\bin\Debug\net8.0\SalesOrderApi.Application.dll
+c:\Users\narma\SalesOrderApp\SalesOrderApp\backend\SalesOrderApp.Application\bin\Debug\net8.0\SalesOrderApi.Application.pdb
+c:\Users\narma\SalesOrderApp\SalesOrderApp\backend\SalesOrderApp.Application\obj\Debug\net8.0\SalesOrderApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\narma\SalesOrderApp\SalesOrderApp\backend\SalesOrderApp.Application\obj\Debug\net8.0\SalesOrderApi.Application.AssemblyInfoInputs.cache
+c:\Users\narma\SalesOrderApp\SalesOrderApp\backend\SalesOrderApp.Application\obj\Debug\net8.0\SalesOrderApi.Application.AssemblyInfo.cs
+c:\Users\narma\SalesOrderApp\SalesOrderApp\backend\SalesOrderApp.Application\obj\Debug\net8.0\SalesOrderApi.Application.csproj.CoreCompileInputs.cache
+c:\Users\narma\SalesOrderApp\SalesOrderApp\backend\SalesOrderApp.Application\obj\Debug\net8.0\SalesOrderApi.Application.sourcelink.json
+c:\Users\narma\SalesOrderApp\SalesOrderApp\backend\SalesOrderApp.Application\obj\Debug\net8.0\SalesOrderApi.Application.dll
+c:\Users\narma\SalesOrderApp\SalesOrderApp\backend\SalesOrderApp.Application\obj\Debug\net8.0\refint\SalesOrderApi.Application.dll
+c:\Users\narma\SalesOrderApp\SalesOrderApp\backend\SalesOrderApp.Application\obj\Debug\net8.0\SalesOrderApi.Application.pdb
+c:\Users\narma\SalesOrderApp\SalesOrderApp\backend\SalesOrderApp.Application\obj\Debug\net8.0\ref\SalesOrderApi.Application.dll
+c:\Users\narma\SalesOrderApp\SalesOrderApp\backend\SalesOrderApp.Application\bin\Debug\net8.0\SalesOrderApi.Domain.dll
+c:\Users\narma\SalesOrderApp\SalesOrderApp\backend\SalesOrderApp.Application\bin\Debug\net8.0\SalesOrderApi.Domain.pdb
+c:\Users\narma\SalesOrderApp\SalesOrderApp\backend\SalesOrderApp.Application\obj\Debug\net8.0\SalesOrderApi.Application.csproj.AssemblyReference.cache
+c:\Users\narma\SalesOrderApp\SalesOrderApp\backend\SalesOrderApp.Application\obj\Debug\net8.0\SalesOrd.F425B005.Up2Date
